@@ -1,0 +1,24 @@
+#allStudents {
+    border-radius: 2em;
+    border: thin solid black;
+    padding: 5em;
+    color: black;
+}
+
+#addStudent {
+    border-radius: 2em;
+    border: thin solid black;
+    padding: 5em;
+    color: green;
+}
+
+#searchStudent {
+    border-radius: 2em;
+    border: thin solid black;
+    padding: 5em;
+    color: blue;
+}
+
+img {
+    max-width: 300px;
+}
